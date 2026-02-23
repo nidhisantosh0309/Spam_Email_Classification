@@ -1,4 +1,4 @@
-# CS 4375 Project 1: Spam Email Classification
+# Spam Email Classification Project
 
 Implementation of Naive Bayes and Logistic Regression for text classification.
 
